@@ -1,5 +1,5 @@
         function checkFortune() {
-            var colour = document.getElementById('colour-select').value;
+            var time = document.getElementById('time-select').value;
             var number = parseInt(document.getElementById('number-input').value, 10);
             var result = "梅"; // デフォルトの値
 
