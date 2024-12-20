@@ -30,7 +30,7 @@
                 result = "ツナマヨネーズとレタスサラダ(青じそドレッシング)";
             } else if (time === "おやつに"&&& sidemenu === "汁物"  &&& number === 0) {
                 result = "そぼろとすいとん";
-            } lse if (time === "おやつに"&&& sidemenu === "サラダ"  &&& number === 0) {
+            } else if (time === "おやつに"&&& sidemenu === "サラダ"  &&& number === 0) {
                 result = "そぼろとオニオンサラダ(和風ドレッシング)";
             } else if (time === "おやつに"&&& sidemenu === "汁物"  &&& number === 1) {
                 result = "塩むすびとお吸い物";
