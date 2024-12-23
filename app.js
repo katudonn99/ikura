@@ -1,7 +1,7 @@
 function checkFortune() {
             var time = document.getElementById('time-select').value;
         　　 var number = parseInt(document.getElementById('number-input').value, 10);
-             var result = "梅とみそ汁"; // デフォルトの値
+             var result = "梅おにぎりとみそ汁"; // デフォルトの値
 
             if (time === "朝" && number ===0 ) {
                 result = "しゃけおにぎりとみそ汁";
